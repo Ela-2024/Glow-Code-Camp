@@ -1,0 +1,22 @@
+.card {
+    border: 5px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.red {
+    background-color: #ff8080;
+   
+}
+
+.blue {
+    background-color: #80b3ff;
+}
+
+.card-container {
+    background-color: #ffff99;
+    padding: 50px;
+}
